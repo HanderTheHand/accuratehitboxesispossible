@@ -1,0 +1,15 @@
+{
+	"geode": "5.0.0",
+	"gd": {
+		"win": "2.2081",
+		"android": "2.2081",
+		"mac": "2.2081",
+		"ios": "2.2081"
+	},
+	"version": "v1.0.0",
+	"id": "meudev.random-jumpscare",
+	"name": "Random Jumpscare",
+	"developer": "meudev",
+	"description": "Mostra um jumpscare (imagem + áudio) em um momento aleatório durante as fases. Nada mais é alterado.",
+	"tags": ["joke"]
+}
